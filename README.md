@@ -1,6 +1,6 @@
 ## Установка
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/myscript/main/install.sh
-chmod +x install.sh
-./install.sh
+wget https://raw.githubusercontent.com/atajanhamrayev/OpenVpn/refs/heads/main/OpenScript.sh
+chmod +x OpenScript.sh
+./OpenScript.sh
